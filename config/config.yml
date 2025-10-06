@@ -1,0 +1,6 @@
+train_path: "data/sample_train.tsv"
+test_path:  "data/sample_test.tsv"
+threshold: 0.44
+cv_repeats: 10
+seed: 42
+features_drop: []
