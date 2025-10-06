@@ -8,7 +8,6 @@ Rank gene models vs official annotation with a logistic regression pipeline (R):
 - Threshold tuning by **MCC** (and optional AUC)
 - **Per-locus ranking** metrics (TP/FP/FN/TN)
 - Simple config file; runs with one command
-- Outputs saved to `outputs/`
 
 ---
 
